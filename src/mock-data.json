@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "fullName": "Shahadat",
+    "address": "n",
+    "phoneNumber": "0123456",
+    "email": "shahadat@email.com"
+  },
+  {
+    "id": 2,
+    "fullName": "Rashed",
+    "address": "new",
+    "phoneNumber": "456",
+    "email": "reshed@email.com"
+  },
+  {
+    "id": 3,
+    "fullName": "Dipok",
+    "address": "F",
+    "phoneNumber": "789",
+    "email": "dipok@email.com"
+  },
+  {
+    "id": 4,
+    "fullName": "Jahid",
+    "address": "t",
+    "phoneNumber": "741",
+    "email": "jahid@email.com"
+  },
+  {
+    "id": 5,
+    "fullName": "Anayet",
+    "address": "N",
+    "phoneNumber": "963",
+    "email": "anayet@email.com"
+  }
+]
